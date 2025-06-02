@@ -1,2 +1,2 @@
 # Netflix_App
-Creating the Netflix app using JavaScript
+Created the Netflix app using JavaScript
